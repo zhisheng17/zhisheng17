@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me. [zhisheng blog](http://www.54tianzhisheng.cn/)
 
 
-
 [![zhisheng's github stats](https://github-readme-stats.vercel.app/api?username=zhisheng17&theme=solarized-dark&show_icons=true)](https://github.com/zhisheng17)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhisheng17)](https://github.com/zhisheng17/github-readme-stats)
