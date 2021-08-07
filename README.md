@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **zhisheng17/zhisheng17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, zhisheng is here! 😎 👋
+
+- 📫 How to reach me. [zhisheng blog](http://www.54tianzhisheng.cn/)
+
+
+
+[![zhisheng's github stats](https://github-readme-stats.vercel.app/api?username=zhisheng17&theme=solarized-dark&show_icons=true)](https://github.com/zhisheng17)
+
