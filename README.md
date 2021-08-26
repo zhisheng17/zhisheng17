@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 
 
 [![zhisheng's github stats](https://github-readme-stats.vercel.app/api?username=zhisheng17&theme=solarized-dark&show_icons=true)](https://github.com/zhisheng17) 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhisheng17&repo=flink-learning)](https://github.com/zhisheng17/flink-learning)
+
+![Stargazers over time](https://starchart.cc/zhisheng17/flink-learning.svg)
