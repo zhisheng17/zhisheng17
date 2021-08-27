@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me. [zhisheng blog](http://www.54tianzhisheng.cn/)
 
+<a href="https://github.com/zhisheng17">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=zhisheng17&theme=solarized-dark&show_icons=true">
+</a>
 
-[![zhisheng's github stats](https://github-readme-stats.vercel.app/api?username=zhisheng17&theme=solarized-dark&show_icons=true)](https://github.com/zhisheng17) 
+<a href="https://github.com/zhisheng17/flink-learning">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhisheng17&repo=flink-learning">
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhisheng17&repo=flink-learning)](https://github.com/zhisheng17/flink-learning)
 
 ![Stargazers over time](https://starchart.cc/zhisheng17/flink-learning.svg)
